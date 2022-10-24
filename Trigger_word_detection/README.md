@@ -1,4 +1,4 @@
-<h1>
+<h1 align = center>
 Trigger word detection
 </h1>
 <p align="center">
