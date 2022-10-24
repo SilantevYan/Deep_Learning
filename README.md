@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td><a href ='https://github.com/SilantevYan/Deep_Learning/tree/main/Image_segmentation_UNet'>Image segmentation UNet</a></td>
-    <tdAs you might imagine, region-specific labeling is a pretty crucial consideration for self-driving cars, which require a pixel-perfect understanding of their environment so they can change lanes and avoid other cars, or any number of traffic obstacles that can put peoples lives in danger.</td>
+    <td>As you might imagine, region-specific labeling is a pretty crucial consideration for self-driving cars, which require a pixel-perfect understanding of their environment so they can change lanes and avoid other cars, or any number of traffic obstacles that can put peoples lives in danger.</td>
     <td>Machine Learning, Deep Learning, Computer Vision, Numpy, Math, UNet, Image Segmentation</td>
   </tr>
   <tr>
