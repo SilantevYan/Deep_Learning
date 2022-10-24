@@ -71,7 +71,7 @@
     <td>Python, NumPy, NLP, TensorFlow, Pandas, re, transformers, TFDistilBertForTokenClassification, BERT</td>
   </tr>
   <tr>
-    <td><a>Trigger_word_detection</a></td>
+    <td><a href='https://github.com/SilantevYan/Deep_Learning/blob/main/Trigger_word_detection/Trigger_word_detection.ipynb'>Trigger_word_detection</a></td>
     <td>This RNN can be used to listen for trigger word to do some kind of action. For this one it is the alarm sound that tells whether stopword was said or not</td>
     <td>Python, Pandas, Numpy, PyDub, TensorFlow, Keras, Time-series, Speech Recognition, NLP, RNN</td>
   </tr>
