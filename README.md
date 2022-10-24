@@ -1,7 +1,7 @@
 <h1 align = center>Deep Learning projects</h1>
 <p align="center">
 
-  <img width="650" height="300" src="https://healthitanalytics.com/images/site/features/_normal/GettyImages-1040557296.jpg">
+  <img width="800" height="300" src="https://healthitanalytics.com/images/site/features/_normal/GettyImages-1040557296.jpg">
 
 </p>
 
