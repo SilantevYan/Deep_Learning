@@ -1,1 +1,1 @@
-# Deep_Learning_specialisation
+# Deep_Learning_projects
