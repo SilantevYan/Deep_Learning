@@ -1,1 +1,1 @@
-<h1 align = center>Deep_Learning_projects</h1>
+<h1 align = center>Deep Learning projects</h1>
