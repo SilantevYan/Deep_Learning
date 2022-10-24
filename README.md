@@ -22,7 +22,7 @@
   <tr>
     <td><a href ='https://github.com/SilantevYan/Deep_Learning/tree/main/Dinosaurus_Island_Character_level_language_model'>Dinosaurus Island Character level language model</a></td>
     <td>Trained the Machine Learning model to determine the market value of the car.</td>
-    <td>Python, NLP, NumPy </td>
+    <td>Python, NLP, NumPy, NLP </td>
   </tr>
   <tr>
     <td><a href='https://github.com/SilantevYan/Deep_Learning/tree/main/Emoji_sentence'>Emojify sentence</a></td>
